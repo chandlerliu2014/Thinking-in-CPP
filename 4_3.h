@@ -1,0 +1,4 @@
+
+struct structTest {
+	void fun();
+};
